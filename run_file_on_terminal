@@ -1,3 +1,4 @@
+"Note:run these commands after executing project.sh file"
 crontab -e #press enter
 #crontab editor opens where you need to make a change
 #with the help on down key go to end of the file and make the below change"
